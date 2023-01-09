@@ -1,13 +1,21 @@
 ### Hi there 👋
 
+### About Me :
+
 I am currently a master student who is interested in software development. 😊
 
 <div align="center">
   <p align="center">
-  <a href="https://www.linkedin.com/in/jingtian-zhang27/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://www.linkedin.com/in/jingtian-zhang27/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   </p>
+    <p align="center">
+    <a href="https://iris1e27.github.io/"><img src="https://img.shields.io/badge/Iris1e27-Blog-blue" alt="Blog Badge"></a>
+  </p>
+  <>
   <img src="https://komarev.com/ghpvc/?username=Iris1e27&style=flat-square&color=blue" alt=""/>
 </div>
+
+### My Stats :
 
 <div align="center">
   
