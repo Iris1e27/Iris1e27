@@ -5,12 +5,8 @@
 I am currently a master student who is interested in software development. 😊
 
 <div>
-  <p>
-    <a href="https://www.linkedin.com/in/jingtian-zhang27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  </p>
-    <p>
-    <a href="https://iris1e27.github.io/"><img src="https://img.shields.io/badge/Iris1e27-Blog-blue" alt="Blog Badge"></a>
-  </p>
+  <a href="https://www.linkedin.com/in/jingtian-zhang27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://iris1e27.github.io/"><img src="https://img.shields.io/badge/Iris1e27-Blog-blue" alt="Blog Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=Iris1e27&style=flat-square&color=blue" alt=""/>
 </div>
 
