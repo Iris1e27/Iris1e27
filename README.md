@@ -1,6 +1,6 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### About Me :
+### ✨ About Me :
 
 - 😊 I'm currently a EE master student who is interested in software development.
 - 🤔 I'm currently seeking a 23 summer internship as a software engineer.
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Iris1e27&style=flat-square&color=blue" alt=""/>
 </div>
 
-### My Stats :
+### 📊 My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iris1e27)](https://git.io/streak-stats)
 
