@@ -11,7 +11,6 @@ I am currently a master student who is interested in software development. 😊
     <p align="center">
     <a href="https://iris1e27.github.io/"><img src="https://img.shields.io/badge/Iris1e27-Blog-blue" alt="Blog Badge"></a>
   </p>
-  <>
   <img src="https://komarev.com/ghpvc/?username=Iris1e27&style=flat-square&color=blue" alt=""/>
 </div>
 
