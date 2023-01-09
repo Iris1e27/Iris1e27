@@ -2,7 +2,9 @@
 
 ### About Me :
 
-I am currently a master student who is interested in software development. 😊
+- 😊 I'm currently a EE master student who is interested in software development.
+- 🤔 I'm seeking a summer internship as a software engineer.
+
 
 <div>
   <a href="https://www.linkedin.com/in/jingtian-zhang27/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
