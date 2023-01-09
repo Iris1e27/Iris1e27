@@ -2,7 +2,7 @@
 
 ### ✨ About Me :
 
-- 😊 I'm currently a EE master student who is interested in software development.
+- 😊 I'm a EE master student who is interested in software development.
 - 🤔 I'm currently seeking a 23 summer internship as a software engineer.
 
 
