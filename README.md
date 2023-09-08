@@ -3,7 +3,7 @@
 ## ✨ About Me :
 
 - 😊 I'm a EE master student who is interested in software development.
-- 🤔 I'm currently seeking a 24 full time position as a software engineer.
+- 🤔 I'm currently seeking a full time position as a software engineer.
 
 
 <div>
