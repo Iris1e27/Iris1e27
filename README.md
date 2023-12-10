@@ -3,7 +3,7 @@
 ## ✨ About Me :
 
 - 😊 I'm a EE master student who is interested in software development.
-- 🤔 I'm currently seeking a full time position as a software engineer.
+- 📫 How to reach me: jingtianzhang27@gmail.com or jz3500@columbia.edu
 
 
 <div>
@@ -16,7 +16,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iris1e27)](https://git.io/streak-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris1e27&layout=donut)
 
 
 
@@ -27,6 +27,8 @@
 ![Iris1e27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iris1e27)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris1e27&layout=compact&exclude_repo=student-management-system,Iris1e27.github.io,notablog-starter)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
