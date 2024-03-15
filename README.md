@@ -4,7 +4,6 @@
 
 - 😊 I'm a master student from Columbia University, expected graduating in Dec 2023.
 - 😊 During my master study, I took courses mainly about networks, software engineering and data related things.
-- 🧐 I'm currently studying contextual data collection in [DitecT (Data & innovative technology-driven Transportation) Lab](https://sharondi-columbia.wixsite.com/ditectlab). 
 - 📫 How to reach me: jingtianzhang27@gmail.com or jz3500@columbia.edu
 
 
