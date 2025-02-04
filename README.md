@@ -2,8 +2,12 @@
 
 ## ✨ About Me :
 
-- 😊 I'm a master student from Columbia University, expected graduating in Dec 2023.
-- 😊 During my master study, I took courses mainly about networks, software engineering and data related things.
+- 😊 Academic Background:
+  - Columbia University, Master of Science in Electrical Engineering, New York, Aug 2022 - Feb 2024
+  - Xi’an Jiaotong-Liverpool University, Bachelor of Engineering with Honours in Computer Science and Technology, Suzhou, Sep 2018 - Jul 2022
+- 💼 Work Experience:
+  - Chipltech, Software Developer, Shanghai, Aug 2024 - Now
+  - Contemporary Amperex Technology Co., Limited (CATL), Electrical Engineer, Ningde, May 2024 - Aug 2024
 - 📫 How to reach me: jingtianzhang27@gmail.com or jz3500@columbia.edu
 
 
